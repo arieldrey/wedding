@@ -9742,8 +9742,8 @@ a.text-dark:hover, a.text-dark:focus {
 .gallery-carousel .owl-nav {
   position: absolute;
   width: 135px;
-  height: 60px;
-  top: -90px;
+  height: 700px;
+  top: -350px;
   left: calc(50% - 67px);
   display: flex;
   align-items: center;
@@ -9753,8 +9753,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .gallery-carousel .owl-nav .owl-prev,
 .gallery-carousel .owl-nav .owl-next {
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
