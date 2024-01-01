@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 abbr[title],
@@ -1253,6 +1253,10 @@ pre code {
   .col-lg-4 {
     flex: 0 0 33.33333%;
     max-width: 33.33333%;
+  }
+  .col-lx-5 {
+    flex: 0 0 50%;
+    max-width: 50%;
   }
   .col-lg-5 {
     flex: 0 0 41.66667%;
